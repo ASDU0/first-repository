@@ -4,3 +4,4 @@
 - Miguel
 - Marjorie
 - Jery Sanca Zevallos
+- Fabricio
