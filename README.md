@@ -3,4 +3,4 @@
 - Milton
 - Miguel
 - Marjorie
-- Jery
+- Jery Sanca Zevallos
