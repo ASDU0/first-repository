@@ -6,3 +6,4 @@
 - Jery Sanca Zevallos
 - Fabricio
 - Nohemi
+- Joel
