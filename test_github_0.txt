@@ -1,12 +1,4 @@
-<<<<<<< HEAD
 this is my new file lalalaaaaa
 noo
 noooo
-=======
-is my new file fsdfdsf fsdffs fsdfsdf
-fsdfdsfsf
-fsdf
-sdf
-sdfsd
-f
->>>>>>> ecb4376aad902e9e153e95e867957f459fe6213c
+first-conflict
