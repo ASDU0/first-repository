@@ -35,7 +35,7 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
       - name: Run ls
-        run: ls -al
+        run: ls -al jola
   test:
   
     runs-on: ubuntu-latest
