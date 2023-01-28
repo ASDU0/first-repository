@@ -38,6 +38,7 @@ jobs:
         run: ls -al
   test:
     runs-on: ubuntu-lastest
+    needs: build
     steps:
       - name: Run second action
         run: mkdir Directory
