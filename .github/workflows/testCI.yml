@@ -42,7 +42,7 @@ jobs:
     needs: build
     steps:
       - uses: actions/checkout@v3
-      - name: Run second action
+      - name: Run second action main
         run: mkdir Directory
       - name: List file
         run: ls -al
