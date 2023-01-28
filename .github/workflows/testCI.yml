@@ -35,4 +35,11 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
       - name: Run ls
-        run: ls -al ksjd;
+        run: ls -al
+  test:
+    runs-on: ubuntu-lastest
+    steps:
+      - name: Run second action
+        run: mkdir Directory
+      - name: List file
+        run: ls -al
