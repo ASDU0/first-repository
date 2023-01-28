@@ -1,6 +1,7 @@
-<<<<<<< HEAD
+
 this is my new file lalalaaaaa
 noo fkjsdfkljd;lskjkfjksfj ;fl
 noooo kjf;l d
+first-conflict
 second-conflict
 OHHHHH OMG
